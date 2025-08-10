@@ -23,10 +23,6 @@ The dataset used for this project can be obtained from [here](https://www.kaggle
 
 It contains relevant information such as order details, location, city, delivery person information, weather conditions and actual delivery times.
 
-## Website Link
-
-A web-based demonstration of the food delivery time prediction model can be accessed from this [link](https://food-delivery-time-prediction.streamlit.app).
-
 ## Implementation Details
 
 ### Methods Used
